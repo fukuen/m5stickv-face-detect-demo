@@ -1,0 +1,9 @@
+[submodule "lib/Maixduino_OV7740"]
+	path = lib/Maixduino_OV7740
+	url = https://github.com/fukuen/Maixduino_OV7740.git
+[submodule "lib/Maixduino_Commons"]
+	path = lib/Maixduino_Commons
+	url = https://github.com/fukuen/Maixduino_Commons.git
+[submodule "lib/TFT_eSPI"]
+	path = lib/TFT_eSPI
+	url = https://github.com/fukuen/TFT_eSPI.git
